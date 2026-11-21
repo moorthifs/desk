@@ -1,0 +1,19 @@
+{
+  "name": "mfs",
+  "like": "neutral",
+  "mode": "both",
+  "settings": [
+    {
+      "thing": "neutral",
+      "value": "#3A3D42",
+      "source": "dial"
+    },
+    {
+      "thing": "accent",
+      "value": "#C2410C",
+      "source": "dial"
+    }
+  ],
+  "lifted": [],
+  "palette": "722e9acc7b4e01799655b91a8bea984eddfa52956aa84ede7d5ccb813ed9851f"
+}
